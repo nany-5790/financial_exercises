@@ -6,7 +6,7 @@ class TransferRequest(BaseModel):
     idempotency_key: str
     from_account: str
     to_account: str
-    amount: str          # string porque viene de JSON — lo convertimos nosotras
+    amount: str          # string because comes from JSON — We convert it.
     currency: str
 
 
