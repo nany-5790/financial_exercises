@@ -145,3 +145,5 @@ python portfolio.py
 - Dependencias en el entorno virtual `venv/`: Django, Django REST Framework,
   FastAPI y Pydantic.
 </content>
+
+<!-- repo: financial exercises — material de estudio -->
